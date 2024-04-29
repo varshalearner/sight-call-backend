@@ -1,7 +1,7 @@
 const { Server } = require("socket.io");
 
 // port on which socket server run
-const io = new Server(8000, {
+const io = new Server(sight-call-backend.onrender.com, {
   cors: true,
 });
 
